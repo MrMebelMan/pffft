@@ -1,5 +1,7 @@
 PFFFT: a pretty fast FFT.
 
+This is a clone of https://bitbucket.org/jpommier/pffft/src/master/
+
 TL;DR
 --
 
